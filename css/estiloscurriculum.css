@@ -1,0 +1,42 @@
+body{
+    background-color: cornsilk;   
+}
+h1{
+    color: darkblue;
+    text-align: center;
+}
+h2{
+   color: darkblue;
+   text-align: center;
+   text-decoration: dashed;
+}
+ul li{
+    
+}
+a:visited{
+    color: cadetblue;
+}
+a:hover{
+    color:blue
+}
+a:active{
+    color:darkblue
+}
+.boton01{
+    background-color:darkcyan;
+    color:rgb(80, 80, 206);
+    text-transform: lowercase;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+}
+.boton01:visited{
+    color: rgb(92, 223, 232);
+
+}
+.boton01:hover{
+    background-color:rgb(109, 62, 251);
+}
+.boton01:active{
+    background-color: rgb(5, 46, 46);
+}
